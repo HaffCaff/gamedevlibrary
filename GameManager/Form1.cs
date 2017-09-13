@@ -5,6 +5,7 @@
 
 
 
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -29,7 +30,7 @@ namespace GameManager
             //Initilize DataGridView
             dataGridView1.ColumnCount = 4;
             dataGridView1.Columns[0].Name = "Name";
-            dataGridView1.Columns[0].Name = "Platform";
+            dataGridView1.Columns[1].Name = "Platform";
             dataGridView1.Columns[2].Name = "Release Year";
             dataGridView1.Columns[3].Name = "Rating";
 
