@@ -8,7 +8,12 @@ actually decide to use this...so yeah.
 
 
 TO DO:
+
 -Switch from built in array to MySQL database for game management
+
 -Add export to CSV Functionality
+
 -Clean up UI
+
 -Add Filter Function
+
